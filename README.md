@@ -32,4 +32,4 @@
 ---
 
 ✨ Tu peux découvrir tous mes projets dans l’onglet **Repositories** !  
-📫 **Contactez-moi :** [Email](koudiatyassine@gmail.com)
+📫 **Contactez-moi :** [Email](mailto:koudiatyassine@gmail.com)
