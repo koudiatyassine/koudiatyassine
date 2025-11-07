@@ -9,6 +9,7 @@
 
 | Projet | Description | Lien |
 |--------|--------------|------|
+| 📦 **Stock Management** | Application web professionnelle en PHP & SQL pour gérer les stocks, les produits, les clients et les factures, avec une interface moderne pour les administrateurs et les employés | [Voir le repo](https://github.com/koudiatyassine/stock-management) |
 | 🛒 **Purchase Management System** | Application web complète en PHP & SQL pour gérer les achats, les produits et les utilisateurs | [Voir le repo](https://github.com/koudiatyassine/purchase-management-system) |
 | 🥇 **The-fighter** | Jeu de combat en langage C avec interface graphique | [Voir le repo](https://github.com/koudiatyassine/The-fighter) |
 | 🧮 **Problem-Set-1** | Exercices de programmation en C | [Voir le repo](https://github.com/koudiatyassine/Problem-Set-1) |
